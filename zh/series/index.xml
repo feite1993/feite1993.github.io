@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on 世纪少年博客</title>
-    <link>http://example.org/zh/series/</link>
+    <link>https://feite1993.github.io/zh/series/</link>
     <description>Recent content in Series on 世纪少年博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -15,7 +15,7 @@
     <webMaster>zzossig@gmail.com (centuryboy)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/zh/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://feite1993.github.io/zh/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
