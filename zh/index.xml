@@ -6,17 +6,17 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>世纪少年博客</title>
-    <link>https://feite1993.github.io/zh/</link>
-    <description>Recent content on 世纪少年博客</description>
+    <title>centuryboy&#39;s blog</title>
+    <link>/zh/</link>
+    <description>Recent content on centuryboy&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>zzossig@gmail.com (centuryboy)</managingEditor>
-    <webMaster>zzossig@gmail.com (centuryboy)</webMaster>
+    <managingEditor>cbblog2022@163.com (centuryboy)</managingEditor>
+    <webMaster>cbblog2022@163.com (centuryboy)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 18 Dec 2021 10:33:41 +0900</lastBuildDate>
     
-        <atom:link href="https://feite1993.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -42,22 +42,30 @@
 
       
       <item>
-        <title>Syntax highlighting</title>
-        <link>https://feite1993.github.io/zh/posts/syntax-highlight/</link>
+        <title>Syntaxhhhhhhhh1</title>
+        <link>/zh/posts/syntax-highlight/</link>
         <pubDate>Sat, 18 Dec 2021 10:33:41 +0900</pubDate>
-        <author>zzossig@gmail.com (centuryboy)</author>
+        <author>cbblog2022@163.com (centuryboy)</author>
         <atom:modified>Fri, 18 Dec 2020 10:33:41 +0900</atom:modified>
-        <guid>https://feite1993.github.io/zh/posts/syntax-highlight/</guid>
+        <guid>/zh/posts/syntax-highlight/</guid>
         <description>Code Syntax Highlighting 中文输入测试从 2021 年 4 月 26 日出发，到 10 月 24 日返程，历时半年，途经云南、西藏、四川、甘肃、青海，累计行程约有 5000 公里。这趟行程，我并没有明确</description>
         
         <dc:creator>Jeus</dc:creator>
-        <media:content url="https://feite1993.github.io/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
           
             
               <category>hugo</category>
+            
+          
+            
+              <category>便签3</category>
+            
+          
+            
+              <category>标签4</category>
             
           
         
@@ -77,12 +85,12 @@
       
       <item>
         <title>关于我</title>
-        <link>https://feite1993.github.io/zh/about/</link>
+        <link>/zh/about/</link>
         <pubDate>Sat, 09 Oct 2021 11:44:14 +0900</pubDate>
-        <author>zzossig@gmail.com (centuryboy)</author>
-        <atom:modified>Sat, 09 Oct 2021 11:44:14 +0900</atom:modified>
-        <guid>https://feite1993.github.io/zh/about/</guid>
-        <description>关于我 ceshi 测试</description>
+        <author>cbblog2022@163.com (centuryboy)</author>
+        <atom:modified>Tue, 09 Nov 2021 11:44:14 +0900</atom:modified>
+        <guid>/zh/about/</guid>
+        <description>关于我和这个博客 ceshifffffffff 测试</description>
         
         <dc:creator>centuryboy</dc:creator>
         

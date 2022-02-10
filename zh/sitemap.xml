@@ -2,168 +2,195 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://feite1993.github.io/zh/</loc>
+    <loc>/zh/</loc>
     <lastmod>2020-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://feite1993.github.io/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://feite1993.github.io/ko/"
+                href="/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://feite1993.github.io/zh/"
+                href="/zh/"
                 />
   </url><url>
-    <loc>https://feite1993.github.io/zh/categories/</loc>
+    <loc>/zh/categories/</loc>
     <lastmod>2020-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://feite1993.github.io/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://feite1993.github.io/ko/categories/"
+                href="/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://feite1993.github.io/zh/categories/"
+                href="/zh/categories/"
                 />
   </url><url>
-    <loc>https://feite1993.github.io/zh/tags/hugo/</loc>
+    <loc>/zh/tags/hugo/</loc>
     <lastmod>2020-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://feite1993.github.io/en/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://feite1993.github.io/zh/tags/hugo/"
-                />
-  </url><url>
-    <loc>https://feite1993.github.io/zh/categories/hugo/</loc>
-    <lastmod>2020-12-18T10:33:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://feite1993.github.io/en/categories/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://feite1993.github.io/zh/categories/hugo/"
-                />
-  </url><url>
-    <loc>https://feite1993.github.io/zh/posts/</loc>
-    <lastmod>2020-12-18T10:33:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://feite1993.github.io/en/posts/"
+                href="/en/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://feite1993.github.io/ko/posts/"
+                href="/ko/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://feite1993.github.io/zh/posts/"
+                href="/zh/tags/hugo/"
                 />
   </url><url>
-    <loc>https://feite1993.github.io/zh/posts/syntax-highlight/</loc>
+    <loc>/zh/categories/hugo/</loc>
     <lastmod>2020-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://feite1993.github.io/en/posts/syntax-highlight/"
+                href="/en/categories/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://feite1993.github.io/zh/posts/syntax-highlight/"
+                href="/zh/categories/hugo/"
                 />
   </url><url>
-    <loc>https://feite1993.github.io/zh/tags/</loc>
+    <loc>/zh/posts/</loc>
     <lastmod>2020-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://feite1993.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://feite1993.github.io/ko/tags/"
+                href="/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://feite1993.github.io/zh/tags/"
+                href="/zh/posts/"
                 />
   </url><url>
-    <loc>https://feite1993.github.io/zh/about/</loc>
-    <lastmod>2021-10-09T11:44:14+09:00</lastmod>
+    <loc>/zh/posts/syntax-highlight/</loc>
+    <lastmod>2020-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://feite1993.github.io/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://feite1993.github.io/ko/about/"
+                href="/en/posts/syntax-highlight/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://feite1993.github.io/zh/about/"
+                href="/zh/posts/syntax-highlight/"
                 />
   </url><url>
-    <loc>https://feite1993.github.io/zh/archive/</loc>
+    <loc>/zh/tags/</loc>
+    <lastmod>2020-12-18T10:33:41+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+  </url><url>
+    <loc>/zh/tags/%E4%BE%BF%E7%AD%BE3/</loc>
+    <lastmod>2020-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>/zh/tags/%E6%A0%87%E7%AD%BE4/</loc>
+    <lastmod>2020-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>/zh/about/</loc>
+    <lastmod>2021-11-09T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/about/"
+                />
+  </url><url>
+    <loc>/zh/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://feite1993.github.io/en/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://feite1993.github.io/ko/archive/"
+                href="/en/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://feite1993.github.io/zh/archive/"
+                href="/zh/archive/"
                 />
   </url><url>
-    <loc>https://feite1993.github.io/zh/series/</loc>
+    <loc>/zh/gallery/</loc>
+    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://feite1993.github.io/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://feite1993.github.io/ko/series/"
+                href="/en/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://feite1993.github.io/zh/series/"
+                href="/zh/gallery/"
+                />
+  </url><url>
+    <loc>/zh/gallery/photo/</loc>
+    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/gallery/photo/"
+                />
+  </url><url>
+    <loc>/zh/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/series/"
                 />
   </url>
 </urlset>

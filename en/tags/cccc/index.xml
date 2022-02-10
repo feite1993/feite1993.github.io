@@ -6,32 +6,32 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>cccc on Hugo Zzo Theme</title>
-    <link>https://feite1993.github.io/en/tags/cccc/</link>
-    <description>Recent content in cccc on Hugo Zzo Theme</description>
+    <title>cccc on centuryboy&#39;s blog</title>
+    <link>/en/tags/cccc/</link>
+    <description>Recent content in cccc on centuryboy&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (centuryboy)</managingEditor>
-    <webMaster>zzossig@gmail.com (centuryboy)</webMaster>
+    <managingEditor>cbblog2022@163.com (centuryboy)</managingEditor>
+    <webMaster>cbblog2022@163.com (centuryboy)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 25 Jan 2021 06:40:51 +0900</lastBuildDate>
     
-        <atom:link href="https://feite1993.github.io/en/tags/cccc/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/tags/cccc/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Shortggggg</title>
-        <link>https://feite1993.github.io/en/posts/shortcodes/</link>
+        <link>/en/posts/shortcodes/</link>
         <pubDate>Mon, 25 Jan 2021 06:40:51 +0900</pubDate>
-        <author>zzossig@gmail.com (centuryboy)</author>
+        <author>cbblog2022@163.com (centuryboy)</author>
         <atom:modified>Mon, 25 Jan 2021 06:40:51 +0900</atom:modified>
-        <guid>https://feite1993.github.io/en/posts/shortcodes/</guid>
+        <guid>/en/posts/shortcodes/</guid>
         <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode  Code tabs Make it easy to switch between different code
 java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  console.log(&amp;#39;Hello World!&amp;#39;);       &#39;use strict&#39;; var containerId = JSON.parse(&#34;\&#34;beee16b23b213409\&#34;&#34;); var containerElem = document.getElementById(containerId); var codetabLinks = null; var codetabContents = null; var ids = []; if (containerElem) { codetabLinks = containerElem.</description>
         
         <dc:creator>centuryboy</dc:creator>
-        <media:content url="https://feite1993.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

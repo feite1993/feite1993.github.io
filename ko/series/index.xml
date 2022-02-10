@@ -6,16 +6,16 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Series on Hugo Zzo Theme</title>
-    <link>https://feite1993.github.io/ko/series/</link>
-    <description>Recent content in Series on Hugo Zzo Theme</description>
+    <title>Series on centuryboy&#39;s blog</title>
+    <link>/ko/series/</link>
+    <description>Recent content in Series on centuryboy&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>zzossig@gmail.com (centuryboy)</managingEditor>
-    <webMaster>zzossig@gmail.com (centuryboy)</webMaster>
+    <managingEditor>cbblog2022@163.com (centuryboy)</managingEditor>
+    <webMaster>cbblog2022@163.com (centuryboy)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="https://feite1993.github.io/ko/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/ko/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
