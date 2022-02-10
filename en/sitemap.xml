@@ -225,34 +225,8 @@
                 href="/en/en/"
                 />
   </url><url>
-    <loc>/en/gallery/</loc>
-    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/gallery/"
-                />
-  </url><url>
     <loc>/en/en/gallery/photo/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
-  </url><url>
-    <loc>/en/gallery/photo/</loc>
-    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/gallery/photo/"
-                />
   </url><url>
     <loc>/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
