@@ -14,11 +14,47 @@
     <managingEditor>cbblog2022@163.com (centuryboy)</managingEditor>
     <webMaster>cbblog2022@163.com (centuryboy)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 11 Oct 2018 10:20:16 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Feb 2022 11:44:14 +0900</lastBuildDate>
     
         <atom:link href="/en/en/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Archive</title>
+        <link>/en/en/archive/</link>
+        <pubDate>Wed, 09 Feb 2022 11:44:14 +0900</pubDate>
+        <author>cbblog2022@163.com (centuryboy)</author>
+        <atom:modified>Wed, 09 Feb 2022 11:44:14 +0900</atom:modified>
+        <guid>/en/en/archive/</guid>
+        <description></description>
+        
+        <dc:creator>centuryboy</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>关于我和这个博客</title>
+        <link>/en/en/about/</link>
+        <pubDate>Wed, 09 Feb 2022 11:44:14 +0900</pubDate>
+        <author>cbblog2022@163.com (centuryboy)</author>
+        <atom:modified>Wed, 09 Feb 2022 11:44:14 +0900</atom:modified>
+        <guid>/en/en/about/</guid>
+        <description></description>
+        
+        <dc:creator>centuryboy</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Photo</title>

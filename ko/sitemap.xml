@@ -87,9 +87,6 @@
                 href="/ko/categories/hugo/"
                 />
   </url><url>
-    <loc>/ko/en/posts/</loc>
-    <lastmod>2021-12-18T10:33:41+09:00</lastmod>
-  </url><url>
     <loc>/ko/en/posts/syntax-highlight/</loc>
     <lastmod>2021-12-18T10:33:41+09:00</lastmod>
   </url><url>
@@ -140,25 +137,7 @@
     <loc>/ko/en/posts/shortcodes/</loc>
     <lastmod>2021-01-25T06:40:51+09:00</lastmod>
   </url><url>
-    <loc>/ko/en/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-  </url><url>
-    <loc>/ko/en/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/ko/zh/</loc>
-  </url><url>
-    <loc>/ko/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/tags/index/"
-                />
   </url><url>
     <loc>/ko/series/</loc>
     <xhtml:link
